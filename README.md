@@ -1,4 +1,4 @@
-# gRPC Spring Boot Example
+# gRPC + Spring Boot + Kotlin Example
 
 ## grpc-server
 
